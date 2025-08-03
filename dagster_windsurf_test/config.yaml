@@ -1,0 +1,4 @@
+assets:
+  es_index:
+    config:
+      index_name: "nyc_taxi"
